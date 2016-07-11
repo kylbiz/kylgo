@@ -1,2 +1,2 @@
 # kylgo
-pokemon can go,kyl aslo can go!
+pokemon can go,kyl also can go!
